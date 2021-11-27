@@ -1,0 +1,588 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+	<!-- s =  -->
+	<title>Onekey - Jocuri Miniclip  - joacă jocuri gratis</title>
+	<meta name="description" content="Mişcă obiectele de la nivelul jocului pentru a ajuta personajul să ajungă teafăr la capăt." />
+	<meta name="keywords" content="acţiune" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<link rel="image_src" href="http://www.miniclip.com/images/icons/onekeysmallicon.jpg" />
+	<meta name="verify-v1" content="wamQiZIEzNwWVOAL1vPDb98Q42ry2PusgPV5zIb4gSc=" />
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link rel="stylesheet" type="text/css" href="/styles/css.php?f=styles,games,gamePage&amp;dc=215" />
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.miniclip.com/games/ro/feed.xml" />
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/styles/ie_bug_fix.css" /><![endif]-->
+	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie_bug_fix7.css" /><![endif]-->
+	
+	<script type="text/javascript">
+		var language = new Array();
+		language[ 0 ] = "Adaugă jocurile tale preferate apăsând butonul \"Adaugă la Jocurile Mele\" de sub jocuri.";
+		language[ 1 ] = "a fost înlăturat din Jocurile Mele.";
+		language[ 2 ] = "";
+		language[ 3 ] = "Jocul";
+		language[ 4 ] = "Istoricul tău de joc va fi adăugat aici pe măsură ce joci";
+		language[ 5 ] = "Fă Miniclip pagina ta de start";
+		language[ 6 ] = "Copiază (Ctrl-C) codul de mai sus şi apoi lipeşte-l (Ctrl-V) pe pagina ta de web sau blog-ul tău";
+		language[ 7 ] = "Arată toate secţiunile de jocuri şi lista completă a jocurilor";
+		language[ 8 ] = "Ascunde toate secţiunile de jocuri şi lista completă a jocurilor";
+		language[ 9 ] = "Sari la jocuri aici";			
+		language[ 10 ] = "Pentru a vedea toate jocurile salvate, trebuie descărcată şi instalată bara de instrumente.nnVrei să instalezi bara de instrumente acum?";
+	</script>
+	<script src="/scripts/js.php?f=global,AC_RunActiveContent,AC_ActiveX,tooltips&amp;dc=21" type="text/javascript"></script>
+	<script src="/scripts/js.php?f=tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages,oas/oas_gamepages,tabnav,oas/oas_gamepages&amp;dc=215" type="text/javascript"></script>	
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-687294-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+		
+		var adKeyword = ";gSex=b;gCat=cat13;gName=game1910;gChannel=channel1;gLanguage=ro;gPageType=gamepage";
+		var adPropertiesBanner = "exp=no;ovl=no;pop=no;";
+		var adPropertiesBox = "exp=no;ovl=no;pop=yes;dcopt=ist;";
+		var adKeywordsAdtech = "sex_b+category_13+game_1910+channel_1+language_ro+pagetype_gamepage";	
+		var ord = Math.random() * 10000000000000000;
+	</script>
+	</head>
+<!-- gamepage : ro -->
+<body class="H_game game1910">
+	<div id="blackOverlay"></div>
+	<div id="shockwaveInstallBar"></div>
+	
+	<div id="wrapper">
+		<div class="ad_728_90">
+			<script language='JavaScript' type="text/javascript">OAS_AD('Bottom2');</script>
+		</div>
+		<h1 class="ad"><a href="/games/ro/" title="Jocuri pe Miniclip.com">Jocuri pe Miniclip.com</a></h1>
+			<h2 class="hGameCat">Onekey</h2>
+		<div id="wrapperNav">
+			<ul id="subNav">
+				<li><a href="/games/ro/">Pagina de start jocuri</a></li>
+				<li><a href="/games/ro/action.php" >Acţiune</a></li>
+				<li><a href="/games/ro/sport.php" >Sportive</a></li>
+				<li><a href="/games/ro/shoot-em-up.php" >Shooter</a></li>
+				<li><a href="/games/ro/puzzle.php" style="background:none;">Puzzle</a></li>
+				<li class="more"><a href="#" onclick="more_display();">Mai mult</a></li>
+			</ul>
+			
+			<div class="box">
+				<h2>Găseşte jocuri repede</h2>
+				<form name="jumpList" action="">
+					<select name="jumpSelect">
+						<option value="default">Loading Game List...</option>
+					</select>
+				</form>
+			</div>
+
+			<div class="box">
+				<h2>Caută jocuri</h2>
+				<form action="/php/ro/search_results.php" method="get">
+					<input type="text" name="query" />
+					<input type="submit" value="Start!" class="button" />
+				</form>
+			</div>
+		</div>
+		
+		<!-- Additional Navigation -->
+		<div id="moreNav" >		
+			<a href="#" onclick="more_display();" id="closeMoreNav">Închide</a>
+
+			<div class="col wide">
+				<h2>Mai multe categorii de jocuri</h2>
+				<ul>
+					<li><a href="/games/ro/3d.php?open" class="35">3D</a></li>
+					<li><a href="/games/ro/5-minute-in-a-hurry.php?open" class="33">5 minute (Pe fugă)</a></li>
+					<li><a href="/games/ro/us-election-2008.php?open" class="478">Alegeri SUA 2008</a></li>
+					<li><a href="/games/ro/latest.php?open" class="7">Cele mai recente</a></li>
+					<li><a href="/games/ro/kids.php?open" class="482">Copii</a></li>
+					<li><a href="/games/ro/racing.php?open" class="477">Curse</a></li>
+					<li><a href="/games/ro/dancing-and-shows.php?open" class="15">Dans şi show-uri</a></li>
+					<li><a href="/games/ro/learning.php?open" class="16">Educative</a></li>
+					<li><a href="/games/ro/girls.php?open" class="485">Fete</a></li>
+					<li><a href="/games/ro/soccer.php?open" class="18">Fotbal</a></li>
+					<li><a href="/games/ro/iarn.php?open" class="4">Iarnă</a></li>
+					<li><a href="/games/ro/e-rated-everyone.php?open" class="24">Jocuri de categoria E (pentru toată lumea)</a></li>
+					<li><a href="/games/ro/web-toys.php?open" class="483">Jucării Web</a></li>
+					<li><a href="/games/ro/virtual-worlds.php?open" class="481">Lumi virtuale</a></li>
+					<li><a href="/games/ro/mmog.php?open" class="479">MMOG</a></li>
+					<li><a href="/games/ro/motorsports.php?open" class="26">Motoare</a></li>
+					<li><a href="/games/ro/multiplayer.php?open" class="2">Multiplayer</a></li>
+					<li><a href="/games/ro/nintendo-wii.php?open" class="475">Nintendo Wii</a></li>
+					<li><a href="/games/ro/brain-training.php?open" class="476">Perspicacitate</a></li>
+					<li><a href="/games/ro/platform.php?open" class="40">Platformă</a></li>
+					<li><a href="/games/ro/political.php?open" class="14">Politice</a></li>
+					<li><a href="/games/ro/hot-games.php?open" class="11">Populare</a></li>
+					<li><a href="/games/ro/retro.php?open" class="17">Retro</a></li>
+					<li><a href="/games/ro/tennis.php?open" class="484">Tenis</a></li>
+					<li><a href="/games/ro/top-100.php?open" class="23">Top 100</a></li>
+				</ul>
+			</div>
+			
+			<div class="col medium">
+				<h2>Alte secţiuni</h2>
+				<ul>
+					<li><a href="/games/ro/toolbar/?open">Alerte joc nou</a></li>
+					<li><a href="/games/ro/games-store.php?open">Magazinul de jocuri</a></li>
+					<li><a href="/games/ro/faq/?open">Ajutor</a></li>
+					<li><a href="/games/ro/shop.php?open">Devânzare</a></li>
+					<li><a href="/games/ro/downloadable-games.php?open">Jocuri de descărcat</a></li>
+					<li><a href="http://forums.miniclip.com/">Forum</a></li>
+					<li><a href="/games/ro/join-newsletter.php?open">Buletininformativ</a></li>
+					<li><a href="/games/ro/webmaster-games.php">Jocuri gratis pentru pagini web</a></li>			
+				</ul>
+			</div>
+			
+			<div class="col last">
+				<h2>Channels</h2>
+				<ul>
+					<li><a href="/players/en/?open">Jucători</a></li>
+					<li><a href="/games/ro/mobile/">Mobile / Cell Phone</a></li>			
+					<!-- <li><a href="/toons/?open">Desene</a></li> -->
+					<li><a href="/ecards/?open">Ecarduri</a></li>
+				</ul>
+			</div>
+			
+			<p class="clear"></p>
+			</div>		
+		<!-- CONTENT -->
+		
+		<!-- recent games -->	
+		<script language="javascript" type="text/javascript">
+			var t_gameId = 1882;
+			recent_save();
+		</script>
+
+		<div class="mainContent">
+			<div class="corner_tl"><div class="corner_tr">&nbsp;</div></div>
+
+			<div class="breadcrumb">
+				<div class="channeHolder">
+					<a href="/players/en/" class="channel players">Jucători</a>
+				</div>
+			
+				<div class="support">
+					<span>
+						<a href="/games/onekey/ro/onekey-help.php" target="_blank">Ajutor</a>
+						<a href="http://forums.miniclip.com/forumdisplay.php?f=153" class="last">Forum jocuri</a>	
+					</span>
+				</div>
+
+				<strong><a href="/games/ro/">Games</a></strong> /
+				<a href="/games/ro/action.php">Acţiune</a> /
+				<a href="/games/onekey/ro/">Onekey</a>
+			</div>
+			
+			<div id="gameHolder" style="width:580px;">
+				<div class="corner_tl bb"><div class="corner_tr bb">&nbsp;</div></div>				
+				<!-- The Game embed code goes in here -->	
+								
+					<div id="gameContainer">
+					
+<script type="text/javascript">
+AC_FL_RunContent(
+'classid','clsid:D27CDB6E-AE6D-11cf-96B8-444553540000',
+'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+'width','550',
+'height','400',
+'src','onekey?mc_gamename=Onekey&mc_hsname=1910&mc_shockwave=0&mc_scoreistime=0&mc_lowscore=0&mc_negativescore=0&mc_icon=onekeysmallicon.jpg&mc_players_site=1&mc_gameUrl=%2Fgames%2Fonekey%2Fro%2F&mc_sessid=jde6c5ffhldmmhhn5m59l930j7&mc_v2=0',
+'menu','false',
+'allowScriptAccess','always',
+'id','onekey'
+ );
+</script>
+<noscript>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="550" height="400" id="onekey">
+<param name="movie" value="onekey.swf" />
+<param name="quality" value="high" />
+<param name="menu" value="false" />
+<param name="allowScriptAccess" value="always" />
+<embed src="onekey.swf" width="550" height="400" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" menu="false"></embed>
+</object></noscript>
+					</div>			
+				
+								<div class="corner_bl bb"><div class="corner_br bb">&nbsp;</div></div>
+			</div>
+
+			<!-- Gamepage tab system -->
+			<!-- Gamepage tab system -->
+			<div id="tabPanel">
+				<ul id="tabMainNav">
+					<li id="tab_GameinfoNav" class="selected"><span><a href="#tab_Gameinfo" id="tab_1">Onekey</a></span></li>
+					<li id="tab_ShareEmailNav"><span><a href="#tab_ShareEmail" id="tab_2">Partajează prin Email</a></span></li>
+					<li id="tab_ShareIMNav"><span><a href="#tab_ShareIM" id="tab_3">Partajează prin IM</a></span></li>
+					<li id="tab_BlogNav"><span><a href="#tab_Blog" id="tab_4">Postează pe blogul meu / pagina mea de web</a></span></li>
+				</ul>
+
+				<div id="tabContainer">
+					<div class="corner_tl bb"><div class="corner_tr bb">&nbsp;</div></div>
+					
+					<div id="tabContent">
+
+				<!-- controls, game description, and buttons (purchase, download etc) -->
+					<div id="tab_Gameinfo">
+						<ul class="buttons">
+							<li class="addtominiclips"><a href="javascript:toolbar_add( '1882', true );">Adaugă la Jocurile Mele</a></li>
+						</ul>
+						<ul class="controls">
+							<li><img src="/images/icon_c_space.gif" width="32" height="16" alt="space"/> Mişcă obiecte.</li>
+						</ul>
+
+						<p>Nu poţi să mişti personajul, dar foloseşte tasta [SPACE] ca să mişti obiectele din jurul lui, pentru a-l conduce la capătul nivelului.</p>
+
+<!-- <script type="text/javascript">
+	function fbs_click() {
+		u=location.href;
+		t="Onekey - Play Free Games";
+		window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+		return false;
+	}
+</script> -->
+
+						<!-- <form id="myspacepostto" method="post" action="http://www.myspace.com/index.cfm?fuseaction=postto" target="_blank" style="display:none;">
+							<input type="hidden" name="t" value="Play Onekey" />
+							<input type="hidden" name="c" value="<img src='http://www.miniclip.com//images/icons/onekeymedicon.jpg'/><br />I just played <a href='http://www.miniclip.com/'>Onekey on Miniclip.com</a>. Check it out." />
+							<input type="hidden" name="u" value="http://www.miniclip.com/" />
+							<input type="hidden" name="l" value="1" />
+						</form> -->
+					
+						<ul id="shareOnline">
+						<!-- 
+							<li><a href="http://www.facebook.com/share.php?u=www.miniclip.com/games/onekey/ro/" onclick="return fbs_click()" target="_blank"><img src="http://www.miniclip.com/images/facebook_share_icon.gif" alt="Partajează prin Facebook" align="left" style="margin-right:5px; border:0;" />Partajează prin Facebook</a></li>
+							<li><a href="http://digg.com/submit?phase=2&url=www.miniclip.com/games/onekey/ro/&title=Onekey - Amazing Miniclip game!&bodytext=Mişcă obiectele de la nivelul jocului pentru a ajuta personajul să ajungă teafăr la capăt..&topic=playable_web_games" target="_blank"><img src="http://www.miniclip.com/images/digg_share_icon.gif" alt="Partajează prin Digg" align="left" style="margin-right:5px; border:0;" />Partajează prin Digg</a></li>
+							<li><a href="#" onclick="document.getElementById('myspacepostto').submit();return false;">Post to MySpace!</a></li> -->
+                            
+							<!--<li><a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+encodeURIComponent( location.href )+'&title='+encodeURIComponent( document.title ), 'delicious','toolbar=no,width=700,height=400'); return false;"><img src="http://www.miniclip.com/images/delicious_share_icon.gif" alt="Partajează prin Del.icio.us" align="left" style="margin-right:5px; border:0;" />Partajează prin Del.icio.us</a></li>-->
+						</ul>
+					</div>
+					
+				<!-- Share by Email -->
+				    			<div id="tab_ShareEmail" class="hidden">
+									<h3>Alege una din aceste 3 metode pentru a partaja Onekey prin email</h3>
+					
+					<ul class="three">
+					<li>
+					
+						<div class="corner_tl c"><div class="corner_tr c">&nbsp;</div></div>
+						
+												
+						<div class="span">
+						
+						<h4 class="blip1">Formular online</h4>
+						
+												
+						
+						<form action="?action=send2friend" method="post" onsubmit="xml_tracker('OnlineForm');return true;">
+				  	
+						<label>Numele tău</label>
+						<input type="text" name="email1" value="" />
+				  	
+				  		
+						<label>Adresele de email ale prietenilor tăi</label>
+						<input type="text" name="email2" value="" />
+						<input type="text" name="email3" value="" />
+						<input type="text" name="email4" value="" />
+						
+						<input type="submit" value="send now" class="button" />
+						
+						</form>
+						
+						</div>
+						
+						<div class="corner_bl c"><div class="corner_br c">&nbsp;</div></div>
+					</li>
+					<li>
+						<div class="corner_tl c"><div class="corner_tr c">&nbsp;</div></div>
+						
+						<div class="span">
+							<h4 class="blip2">Hotmail, AOL, Yahoo Mail şi alte servicii de e-mail online.</h4>
+							<p>Copiază şi lipeşte legătura de mai jos în webmail-ul tău şi trimite-l la toţi prietenii tăi</p>
+							<!-- copy/ paste area -->					
+							<textarea onclick="this.select();" rows="4" cols="30" name="emailLink">http://www.miniclip.com/games/onekey/ro/</textarea>
+
+							<div class="copyButton">
+								<input type="button" onclick="cb_copy( emailLink );xml_tracker('WebBasedEmail');" value="copy" class="button" />
+							</div>
+						</div>
+						
+						<div class="corner_bl c"><div class="corner_br c">&nbsp;</div></div>				
+					</li>
+					<li class="last">
+						<div class="corner_tl c"><div class="corner_tr c">&nbsp;</div></div>
+						
+						<div class="span">
+							<h4 class="blip3">Outlook Email şi alte aplicaţii de email.</h4>
+							<p><a onmousedown="xml_tracker('DefaultEmailProgram');" href="mailto:?subject=Play Onekey!&amp;body=Hi,%0D%0DClick here to play this great game, Onekey!%0Dhttp://www.miniclip.com/games/onekey/ro/">Apasă aici pentru a deschide programul tău implicit de mail şi a trimite Onekey prietenilor tăi.</a></p>
+						</div>
+						
+						<div class="corner_bl c"><div class="corner_br c">&nbsp;</div></div>
+					</li>
+	
+					</ul>
+					
+				</div>
+	
+				<!-- Share Instant Messenger -->
+				<div id="tab_ShareIM" class="hidden">
+					<h3>Împarte Onekey prin Instant Messenger</h3>
+					
+					<ul class="three">
+						<li class="one">
+							<div class="corner_tl c"><div class="corner_tr c">&nbsp;</div></div>
+							<div class="span">
+								<p>Copiază şi lipeşte legătura de mai jos în programul tău de mesagerie instantanee pentru a partaja jocul cu prietenii tăi.</p>
+								<input type="text" name="imLink" onclick="this.select();" style="width:575px;" value="http://www.miniclip.com/games/onekey/ro/" />
+
+								<div class="copyButton">
+									<input type="button" onclick="cb_copy( imLink );xml_tracker('ShareByIM');" value="copy" class="button" />
+								</div>
+							</div>
+							<div class="corner_bl c"><div class="corner_br c">&nbsp;</div></div>	
+						</li>
+					</ul>
+
+				</div>
+	
+				<!-- Share Blog -->
+				<div id="tab_Blog" class="hidden">
+					<h3>Există 3 moduri diferite de a posta Onekey pe blogul tău sau pagina ta de web.</h3>
+	
+					<ul class="two">
+					<!-- Embed Game -->
+										
+					<!-- Gamesroom -->
+					<li class="one">
+					
+						<div class="corner_tl c"><div class="corner_tr c">&nbsp;</div></div>
+						
+						<div class="span">
+						
+						<h4 class="blip1">Arcada Jocurilor</h4>
+						
+						<p>Ia Arcada Jocurilor, cu peste 300 de jocuri, inclusiv e actualizează automat în fiecare săptămână!</p>
+						<img src="http://www.miniclip.com/images/gamesroom.jpg" width="316" height="129" alt="screenshot of the Arcada Jocurilor" />
+						<p>Copiază şi lipeşte codul de mai jos pentru a-l adăuga blogului sau paginii tale de web. <a href="#filler" onclick="javascript:previewGamesRoom();">Previzualizează Arcada Jocurilor</a></p>
+						
+						<!-- copy/ paste area -->					
+						<textarea onclick="this.select();" rows="3" cols="30" name="gamesroom"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="549" height="230">
+<param name="movie" value="http://www.miniclip.com/swfcontent/gamesroom.swf">
+<param name="quality" value="high"></param>
+<param name="menu" value="false"></param>
+<embed src="http://www.miniclip.com/swfcontent/gamesroom.swf" width="549" height="230" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" menu="false"></embed>
+</object></textarea>
+						
+						<div class="copyButton">
+							<input type="button" onclick="cb_copy( gamesroom );xml_tracker('GamesRoom');" value="copy" class="button" />
+						</div>
+	
+						</div>
+						
+						<div class="corner_bl c"><div class="corner_br c">&nbsp;</div></div>
+					</li>
+					
+					<li class="one">
+						<div class="corner_tl c"><div class="corner_tr c">&nbsp;</div></div>
+
+						<div class="span">
+							<h4 class="blip2">Onekey Pictograma şi descrierea</h4>
+							<div style="float:left; width:250px; padding:0 5px;">
+								<p>Adaugă această pictogramă la blogul meu / pagina mea de web</p>
+							
+								<!-- Re Used in the textarea below -->
+								<table style="margin:0 0 10px 0; width:244px; background:#fff; border:1px solid #ccc;" cellspacing="0" cellpadding="0">
+								<tr><td style="font-family:verdana; font-size:11px; color:#000; padding:5px 10px;"><a href="http://www.miniclip.com/games/onekey/ro/" style="display:block; text-decoration:none;"><img src="http://www.miniclip.com/images/icons/onekeysmallicon.jpg" width="70" height="59" align="left" style="margin-right:5px; border:0;" alt="Jocuri pe Miniclip.com - Onekey" />
+								<strong style="color:#000; border:none; text-decoration:underline;">Onekey</strong><p style="margin:0; clear:none; text-decoration:none; color:#000;">Mişcă obiectele de la nivelul jocului pentru a ajuta personajul să ajungă teafăr la capăt.</p></a></td></tr>
+								<tr><td style="font-family:verdana; font-size:11px; padding:5px 10px; border-top:1px solid #ccc;"><a href="http://www.miniclip.com/games/onekey/ro/" title="Jocuri pe Miniclip.com">Joacă acum acest joc gratis!!</a></td></tr>
+								</table>									
+								<!-- End of table code -->
+							</div>
+
+							<div style="float:left; width:310px; padding:0 5px;">
+								<p>Copiază şi lipeşte codul de mai jos pentru a-l adăuga blogului sau paginii tale de web.</p>
+								<!-- copy/ paste area -->					
+								<textarea onclick="this.select();" rows="6" cols="30" name="iconsdescription"><table style="margin:0 0 10px 0; width:244px; background:#fff; border:1px solid #ccc;" cellspacing="0" cellpadding="0">
+<tr><td style="font-family:verdana; font-size:11px; color:#000; padding:5px 10px;"><a href="http://www.miniclip.com/games/onekey/ro/" style="display:block; text-decoration:none;"><img src="http://www.miniclip.com/images/icons/onekeysmallicon.jpg" width="70" height="59" align="left" style="margin-right:5px; border:0;" alt="Jocuri pe Miniclip.com - Onekey" />
+<strong style="color:#000; border:none; text-decoration:underline;">Onekey</strong><p style="margin:0; clear:none; text-decoration:none; color:#000;">Mişcă obiectele de la nivelul jocului pentru a ajuta personajul să ajungă teafăr la capăt.</p></a></td></tr>
+<tr><td style="font-family:verdana; font-size:11px; padding:5px 10px; border-top:1px solid #ccc;"><a href="http://www.miniclip.com/games/onekey/ro/" title="Jocuri pe Miniclip.com">Joacă acum acest joc gratis!!</a></td></tr>
+</table></textarea>
+								<div class="copyButton">
+									<input type="button" onclick="cb_copy( iconsdescription );xml_tracker('PostToMyBlog');" value="copy" class="button" />
+								</div>
+							</div>
+							<div class="corner_bl c"><div class="corner_br c">&nbsp;</div></div>
+						</li>
+
+						<!-- Advanced webmaster (webmaster page) -->
+						<li class="one orange">
+			
+							<div class="corner_tl c"><div class="corner_tr c">&nbsp;</div></div>
+							<div class="span" style="min-height:0;">
+								<h4 class="blip3">Administratori pagini web avansaţi</h4>
+								<p><a href="/games/ro/webmaster-games.php">Descarcă mai multe jocuri gratis pentru blogul meu/pagina mea de web. Apasă aici!</a></p>
+							</div>
+							<div class="corner_bl c"><div class="corner_br c">&nbsp;</div></div>
+						</li>
+					</ul>			  
+				</div>
+	
+				</div>
+	
+				<div class="corner_bl bb"><div class="corner_br bb">&nbsp;</div></div>
+				
+				</div>	
+				
+			</div>
+			
+			
+<script type="text/javascript">
+	fixLinks();
+</script>	<div class="banner">
+		<div class="corner_tl b2"><div class="corner_tr b2">&nbsp;</div></div>
+			<script type="text/javascript" src="/scripts/adserver/serve.php?t=4&amp;p=US,,,"></script>
+		<div class="corner_bl b2"><div class="corner_br b2">&nbsp;</div></div>
+	</div>
+			<div class="corner_bl"><div class="corner_br">&nbsp;</div></div>
+		</div>
+
+		<!-- SIDE BAR -->		
+		<div id="sideBar">
+	<div class="ad_300x250" id="sidebarBoxBackground"></div>		<div style="margin:5px 0 0 0;">
+		<script type="text/javascript">
+		AC_FL_RunContent(
+			'id','loginboxAS2',
+			'classid','clsid:D27CDB6E-AE6D-11cf-96B8-444553540000',
+			'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+			'width','324',
+			'height','200',
+			'src','/players/swf/components/loginbox_as2',
+			'flashvars','sessid=jde6c5ffhldmmhhn5m59l930j7&loggedin=0&mc_gameUrl=%2Fgames%2Fonekey%2Fro%2F&mc_sessid=jde6c5ffhldmmhhn5m59l930j7&mc_v2=0',
+			'menu','false',
+			'wmode', 'window'
+		);
+		</script>
+		</div>
+	<div class="letterbox">
+		<script type="text/javascript" src="/scripts/adserver/serve.php?t=3&amp;p=US,,,"></script>
+	</div>
+
+	<!--<div class="letterbox" style="height:215px;" id="commandoPush">
+		 <a href="/games/commando-2">
+			<img src="/images/banners/commando2_324x215.jpg" />
+		</a> 
+        <a href="/games/club-penguin">
+			<img src="/images/banners/club-penguin_324x215_general.jpg" />
+		</a>
+	</div>-->		<!-- Mini Panel -->
+		<div id="miniPanel">
+			<div class="topTen_2">
+				<h2>Top zece jocuri</h2>
+				<ol><li><a href="/games/club-penguin/ro/">Club Penguin</a></li><li><a href="/games/commando-2/ro/">Commando 2</a></li><li><a href="/games/quick-fire-pool/ro/">Quick Fire Pool</a></li><li><a href="/games/the-scruffs/ro/">The Scruffs</a></li><li><a href="/games/air-barons/ro/">Air Barons</a></li><li><a href="/games/light-heroes/ro/">Light Heroes</a></li><li><a href="/games/stunt-pilot/ro/">Stunt Pilot</a></li><li><a href="/games/cab-driver/ro/">Cab Driver</a></li><li><a href="/games/bomba/ro/">Bomba</a></li><li><a href="/games/governor-of-poker/ro/">Governor of Poker</a></li></ol>
+			</div>
+			<div class="col">
+				<h2>Ultimele</h2>
+				<ul>
+					<li>
+						<a href="/games/air-barons/ro/"><img src="http://www.miniclip.com/images/icons/airbaronssmallicon.jpg" width="70" height="59" alt="Air Barons" />
+						<strong>Air Barons</strong></a>
+					</li>
+					<li>
+						<a href="/games/light-heroes/ro/"><img src="http://www.miniclip.com/images/icons/lightheroessmallicon.jpg" width="70" height="59" alt="Light Heroes" />
+						<strong>Light Heroes</strong></a>
+					</li>
+				</ul>
+			</div>
+			
+			<div class="col colHot">
+				<h2> &nbsp; &nbsp; Popular</h2>
+				<ul>
+					<li>
+						<a href="/games/club-penguin/ro/"><img src="http://www.miniclip.com/images/icons/clubpenguinNew_smallicon.jpg" width="70" height="59" alt="Club Penguin" />
+						<strong>Club Penguin</strong></a>
+					</li>
+					<li>
+						<a href="/games/sketch-star/ro/"><img src="http://www.miniclip.com/images/icons/sketchstarsmallicon.jpg" width="70" height="59" alt="Sketch Star" />
+						<strong>Sketch Star</strong></a>
+					</li>
+				</ul>
+			</div>
+		</div>		<div class="myGames">
+			<div class="col">
+				<h2>Ultimele jocuri jucate</h2>
+				<div id="mg_latest"></div>
+			</div>
+			<div class="col2">
+				<h2>Jocurile Mele</h2>
+				<ul id="mg_miniclips"></ul>
+			</div>
+			<div class="clear"></div>
+		</div>
+	<div class="ad_300x250_holder" id="sidebarBoxForeground">
+	<script language='JavaScript' type="text/javascript">
+	OAS_AD('Middle');
+	</script>
+	</div>
+		</div>
+		<!-- FULL GAME LIST - ON EVERY PAGE -->
+			
+		<div class="complete">		
+			<div class="corner_tl"><div class="corner_tr">&nbsp;</div></div>
+		
+			<a href="#" onclick="list_toggle(); return false;" id="listToggle" class="collapse">Ascunde toate secţiunile de jocuri şi lista completă a jocurilor</a>			
+			<div id="WrapperComplete"></div>
+
+			<div class="corner_bl"><div class="corner_br">&nbsp;</div></div>
+		</div>		<div class="corner_bl g"><div class="corner_br g">&nbsp;</div></div>
+	</div>
+
+	<div id="footer">
+		<ul class="left flags">
+			<li class="normal">&nbsp;&nbsp;Alege limba :</li>
+			<li class="en"><a href="http://www.miniclip.com/?language=en">English</a></li>
+			<li class="fr"><a href="http://www.miniclip.com/?language=fr">Fran&#231;ais</a></li>
+			<li class="es"><a href="http://www.miniclip.com/?language=es">Espa&#241;ol</a></li>
+			<li class="de"><a href="http://www.miniclip.com/?language=de">Deutsch</a></li>
+			<li class="pt"><a href="http://www.miniclip.com/?language=pt">Portugu&#234;s</a></li>
+			<li class="it"><a href="http://www.miniclip.com/?language=it">Italiano</a></li>
+            <li class="pl"><a href="http://www.miniclip.com/?language=pl">Polski</a></li>
+            <li class="ro"><a href="http://www.miniclip.com/?language=ro">Rom&acirc;n&#259;</a></li>
+            <li class="hu"><a href="http://www.miniclip.com/?language=hu">Magyar</a></li>
+			<li class="br"><a href="http://www.miniclip.com/?language=br">Brasil</a></li>
+			<li class="kr"><a href="http://www.miniclip.com/?language=kr">한국어</a></li>
+			<li class="cn"><a href="http://www.miniclip.com/?language=cs">漢語</a></li>
+			<li class="jp"><a href="http://www.miniclip.com/?language=jp">日本語</a></li>
+			<!-- <li style="padding-left:0;"><script type="text/javascript">SetHomepage();</script></li> -->
+		</ul>
+		
+		<div class="welcome">Bun venit la Miniclip.com, cel mai mare site online de jocuri unde poţi juca jocuri gratis, jocuri sportive, jocuri multiplayer de mari dimensiuni, jocuri de acţiune, jocuri puzzle,</div>
+ 		<div class="center">
+			<a href="/players/ro/signup.php">Join Now</a>
+			| <a href="http://corporate.miniclip.com/" target="_blank">Corporaţii</a>
+			| <a href="http://corporate.miniclip.com/about-miniclip.htm" target="_blank">Despre noi</a>
+			| <a href="http://corporate.miniclip.com/advertising/" target="_blank">Publicitari</a>
+			<!-- | <a href="/games/ro/webmaster-games.php">Jocuri gratis pentru pagini web</a> -->
+			| <a href="/games/ro/toolbar/">Alerte joc nou</a>
+			| <a href="/games/ro/terms-and-conditions.php">Termeni şi condiţii</a>
+			| <a href="http://www.miniclip.com/games/en/privacy-policy.php">Privacy</a>
+			| <a href="/games/ro/feed.xml" id="icon_feed" class="icon">Canalul de jocuri Miniclip.com</a>
+		</div>
+
+		<p style="color:#aaa;">&copy; Copyright 2000 - 2008 Miniclip Ltd. Toate drepturile rezervate.</p>
+	</div>
+	
+	<script type="text/javascript">
+		OAS_AD( 'Position2' );
+		clearCurrentLink();
+		recent_write();
+		anim_init();
+		anim_set(1);
+		toolbar_list();
+		list_init( "ro", "games" );
+		cb_init();
+		initRotator();
+	</script>
+	
+</body>
+</html>

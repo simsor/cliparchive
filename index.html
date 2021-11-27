@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miniclip Archive</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="backgrounds.css">
+    <script src="ruffle/ruffle.js"></script>
+    <script src="backgrounds.js"></script>
+    <script src="main.js"></script>
+</head>
+<body>
+    <template id="tpl-game">
+        <li>
+            <a href=""></a>
+        </li>
+    </template>
+    
+    <div id="searchzone">
+        <div class="container">
+            <h1 class="title">M I N I C L I P <small>.com</small></h1>
+            <input type="text" class="search" id="search" placeholder="Search for a game...">
+        </div>
+        <ul id="games"></ul>
+    </div>
+
+    <div id="gamezone" class="hidden">
+        <div class="container">
+            <h1><span id="gametitle"></span> <small><a href="#">Go Back</a></small></h1>
+        </div>
+        <div id="ruffle"></div>
+        <div id="description">
+            <p></p>
+            <ul id="keys"></ul>
+        </div>
+    </div>
+</body>
+</html>

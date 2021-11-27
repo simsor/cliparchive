@@ -1,0 +1,112 @@
+
+@font-face {
+    font-family: "SF Distant Galaxy Alternate";
+    src: url("fonts/SF-Distant-Galaxy-Alternate.ttf");
+}
+
+.hidden {
+    display: none;
+}
+
+h1.title {
+    font-family: "SF Distant Galaxy Alternate", "Impact", serif;
+    background: linear-gradient(#F58912, #CE2124);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgba(0,0,0,0);
+    font-size: 3rem;
+}
+
+h1.title>small {
+    font-size: 1rem;
+}
+
+div.container {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+input.search {
+    width: 100%;
+    height: 2rem;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+ul#games {
+    list-style: none;
+    width: 70%;
+    margin: auto;
+}
+
+ul#games>li {
+    display: inline-block;
+}
+
+ul#games>li>a {
+    width: 150px;
+    height: 80px;
+    display: inline-block;
+    border: 2px dotted orange;
+    background: linear-gradient(lightblue, blue);
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 5px;
+    overflow: hidden;
+
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+
+ul#games>li>a:hover{
+    box-shadow: inset 0px 0px 33px 0px rgba(0,0,0,0.75);
+}
+
+.ruffleplayer {
+    width: 70vw;
+    height: 60vh;
+    display: block;
+    margin: auto;
+}
+
+#description {
+    width: 65%;
+    margin: auto;
+    padding: 15px;
+    background: white;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+#gamezone>div.container>h1 {
+    background: lightgray;
+}
+
+span.arrows::after {
+    content: "⬅️⬆️⬇️➡️";
+}
+
+span.mouse::after {
+    content: "🖱️🔃";
+}
+
+span.mouse-scroll::after {
+    content: "🖱️↕️";
+}
+
+span.mouse-left::after {
+    content: "🖱️";
+}
+
+span.mouse-right::after {
+    content: "🖱️";
+}

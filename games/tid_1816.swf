@@ -1,0 +1,307 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+	<!-- s =  -->
+	<title>Games at Miniclip.com - Play Free Games</title>
+	<meta name="description" content="Play Free Online Games, sports games, massive multiplayer games, action games, puzzle games, flash games and more, casual games." />
+	<meta name="robots" content="noodp" />
+	<meta name="verify-v1" content="wamQiZIEzNwWVOAL1vPDb98Q42ry2PusgPV5zIb4gSc=" />
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link rel="stylesheet" type="text/css" href="/styles/css.php?f=styles,games,search&amp;dc=215" />
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.miniclip.com/games/en/feed.xml" />
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/styles/ie_bug_fix.css" /><![endif]-->
+	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie_bug_fix7.css" /><![endif]-->
+	
+	<script type="text/javascript">
+		var language = new Array();
+		language[ 0 ] = "Add your favorite Games by clicking on the  \"Add to My Games\" button under the Games.";
+		language[ 1 ] = "has been removed from My Games.";
+		language[ 2 ] = "is already in the My Miniclips list. Click \"My Miniclips\" in the toolbar to use it!";
+		language[ 3 ] = "The game";
+		language[ 4 ] = "Your gaming history will be added here as you play";
+		language[ 5 ] = "Make Miniclip your Homepage";
+		language[ 6 ] = "Copy (Ctrl-C) the code above then Paste (Ctrl-V) it into your website or blog";
+		language[ 7 ] = "Show all Games Sections and Full Games List";
+		language[ 8 ] = "Hide all Games Sections and Full Games List";
+		language[ 9 ] = "Jump to Games here";			
+		language[ 10 ] = "In order to see all of your saved Games you must download and install the toolbar.\\n\\nWould you like to install the toolbar now?";
+	</script>
+	<script src="/scripts/js.php?f=global,AC_RunActiveContent,AC_ActiveX,tooltips&amp;dc=21" type="text/javascript"></script>
+	<script src="/scripts/js.php?f=oas/oas_gamesectionpages&amp;dc=215" type="text/javascript"></script>	
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-687294-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+		
+		var adKeyword = ";gChannel=channel1;gLanguage=en;gPageType=search";
+		var adPropertiesBanner = "exp=no;ovl=no;pop=no;";
+		var adPropertiesBox = "exp=no;ovl=no;pop=yes;dcopt=ist;";
+		var adKeywordsAdtech = "channel_1+language_en+pagetype_search";	
+		var ord = Math.random() * 10000000000000000;
+	</script>
+	</head>
+<!-- search : en -->
+<body class="H_game">
+	<div id="blackOverlay"></div>
+	<div id="shockwaveInstallBar"></div>
+	
+	<div id="wrapper">
+		<h1><a href="/games/en/" title="Games at Miniclip.com">Games at Miniclip.com</a></h1>
+      
+        <ul id="tabNav">
+		<li class="button_games"><strong><a href="/games/en/">Games</a></strong></li>
+		
+            <li class="button_community"><a href="/players/en/">Players</a><span></span></li>
+		</ul>
+        
+		<div id="wrapperNav">
+			<ul id="subNav">
+				<li><a href="/games/en/">Games Home</a></li>
+				<li><a href="/games/en/action.php" >Action Games</a></li>
+				<li><a href="/games/en/sport.php" >Sports Games</a></li>
+				<li><a href="/games/en/shoot-em-up.php" >Shoot 'Em Up</a></li>
+				<li><a href="/games/en/puzzle.php" style="background:none;">Puzzle Games</a></li>
+				<li class="more"><a href="#" onclick="more_display();">More</a></li>
+			</ul>
+			
+			<div class="box">
+				<h2>Find Games Quickly</h2>
+				<form name="jumpList" action="">
+					<select name="jumpSelect">
+						<option value="default">Loading Game List...</option>
+					</select>
+				</form>
+			</div>
+
+			<div class="box">
+				<h2>Search for Games</h2>
+				<form action="/php/en/search_results.php" method="get">
+					<input type="text" name="query" />
+					<input type="submit" value="Go!" class="button" />
+				</form>
+			</div>
+		</div>
+		
+		<!-- Additional Navigation -->
+		<div id="moreNav" >		
+			<a href="#" onclick="more_display();" id="closeMoreNav">close</a>
+
+			<div class="col wide">
+				<h2>More Games Categories</h2>
+				<ul>
+					<li><a href="/games/en/3d.php?open" class="35">3D</a></li>
+					<li><a href="/games/en/5-minute-in-a-hurry.php?open" class="33">5 Minute (In a hurry)</a></li>
+					<li><a href="/games/en/brain-training.php?open" class="476">Brain Training</a></li>
+					<li><a href="/games/en/china-2008.php?open" class="487">China 2008</a></li>
+					<li><a href="/games/en/dancing-and-shows.php?open" class="15">Dancing &amp; Shows</a></li>
+					<li><a href="/games/en/e-rated-everyone.php?open" class="24">E-Rated (Everyone)</a></li>
+					<li><a href="/games/en/education.php?open" class="491">Education</a></li>
+					<li><a href="/games/en/girls.php?open" class="485">Girls</a></li>
+					<li><a href="/games/en/golf.php?open" class="488">Golf</a></li>
+					<li><a href="/games/en/hot-games.php?open" class="11">Hot</a></li>
+					<li><a href="/games/en/kids.php?open" class="482">Kids</a></li>
+					<li><a href="/games/en/latest.php?open" class="7">Latest</a></li>
+					<li><a href="/games/en/learning.php?open" class="16">Learning</a></li>
+					<li><a href="/games/en/mmog.php?open" class="479">MMOG</a></li>
+					<li><a href="/games/en/motorsports.php?open" class="26">Motorsports</a></li>
+					<li><a href="/games/en/multiplayer.php?open" class="2">Multiplayer</a></li>
+					<li><a href="/games/en/nintendo-wii.php?open" class="475">Nintendo Wii</a></li>
+					<li><a href="/games/en/platform.php?open" class="40">Platform</a></li>
+					<li><a href="/games/en/political.php?open" class="14">Political</a></li>
+					<li><a href="/games/en/racing.php?open" class="477">Racing</a></li>
+					<li><a href="/games/en/retro.php?open" class="17">Retro</a></li>
+					<li><a href="/games/en/soccer.php?open" class="18">Soccer</a></li>
+					<li><a href="/games/en/tennis.php?open" class="484">Tennis</a></li>
+					<li><a href="/games/en/top-100.php?open" class="23">Top 100</a></li>
+					<li><a href="/games/en/us-election-2008.php?open" class="478">US Election 2008</a></li>
+					<li><a href="/games/en/virtual-worlds.php?open" class="481">Virtual Worlds</a></li>
+					<li><a href="/games/en/web-toys.php?open" class="483">Web Toys</a></li>
+					<li><a href="/games/en/winter.php?open" class="4">Winter</a></li>
+				</ul>
+			</div>
+			
+			<div class="col medium">
+				<h2>Other Sections</h2>
+				<ul>
+					<li><a href="/games/en/toolbar/?open">New Game Alerts</a></li>
+					<li><a href="/games/en/games-store.php?open">Games Store</a></li>
+					<li><a href="/games/en/faq/?open">Help</a></li>
+					<li><a href="/games/en/shop.php?open">Merchandise</a></li>
+					<li><a href="/games/en/downloadable-games.php?open">Downloadable Games</a></li>
+					<li><a href="http://forums.miniclip.com/">Forum</a></li>
+					<li><a href="/games/en/join-newsletter.php?open">Newsletter</a></li>
+					<li><a href="/games/en/webmaster-games.php">Free Website Games</a></li>			
+				</ul>
+			</div>
+			
+			<div class="col last">
+				<h2>Channels</h2>
+				<ul>
+					<li><a href="/players/en/?open">Players</a></li>
+					<li><a href="/games/en/mobile/">Mobile / Cell Phone</a></li>			
+					<!-- <li><a href="/toons/?open">Toons</a></li> -->
+					<li><a href="/ecards/?open">Ecards</a></li>
+				</ul>
+			</div>
+			
+			<p class="clear"></p>
+			</div>		<!-- CONTENT -->
+		<div class="searchresults mainContent">
+			<!-- SEARCH RESULTS HERE -->
+<h2>Oh dear - we couldn't find any games that included the phrase <strong>games/pebble-dash/en/pebbledash</strong></h2><div style="text-align:center; font-size:20px;"><a href="/" style="display:block; padding:10px 0 25px 0;">Play Games Now!</a></div>
+			<form method="get">
+				<label>Search Again</label>
+				<input type="text" name="query" value="games/pebble-dash/en/pebbledash" />
+				<input type="submit" value="go!" />
+			</form>
+		
+		</div>
+		
+		<!-- SIDE BAR -->		
+		<div id="sideBar">
+		
+	<div class="ad_300x250" id="sidebarBoxBackground"></div>	<div class="ad_300x250_holder" id="sidebarBoxForeground">
+	<script language='JavaScript' type="text/javascript">
+	OAS_AD('Middle');
+	</script>
+	</div>
+
+		<div class="letterbox">
+			<div class="letterbox">
+		<script type="text/javascript" src="/scripts/adserver/serve.php?t=3&amp;p=US,,,"></script>
+	</div>
+
+	<!--<div class="letterbox" style="height:215px;" id="commandoPush">
+		 <a href="/games/commando-2">
+			<img src="/images/banners/commando2_324x215.jpg" />
+		</a> 
+        <a href="/games/club-penguin">
+			<img src="/images/banners/club-penguin_324x215_general.jpg" />
+		</a>
+	</div>-->		</div>
+
+				<!-- Mini Panel -->
+		<div id="miniPanel">
+			<div class="topTen_2">
+				<h2>Top Ten Games</h2>
+				<ol><li><a href="/games/club-penguin/en/">Club Penguin</a></li><li><a href="/games/commando-2/en/">Commando 2</a></li><li><a href="/games/quick-fire-pool/en/">Quick Fire Pool</a></li><li><a href="/games/the-scruffs/en/">The Scruffs</a></li><li><a href="/games/air-barons/en/">Air Barons</a></li><li><a href="/games/light-heroes/en/">Light Heroes</a></li><li><a href="/games/stunt-pilot/en/">Stunt Pilot</a></li><li><a href="/games/cab-driver/en/">Cab Driver</a></li><li><a href="/games/bomba/en/">Bomba</a></li><li><a href="/games/governor-of-poker/en/">Governor of Poker</a></li></ol>
+			</div>
+			<div class="col">
+				<h2>Latest</h2>
+				<ul>
+					<li>
+						<a href="/games/air-barons/en/"><img src="http://www.miniclip.com/images/icons/airbaronssmallicon.jpg" width="70" height="59" alt="Air Barons" />
+						<strong>Air Barons</strong></a>
+					</li>
+					<li>
+						<a href="/games/light-heroes/en/"><img src="http://www.miniclip.com/images/icons/lightheroessmallicon.jpg" width="70" height="59" alt="Light Heroes" />
+						<strong>Light Heroes</strong></a>
+					</li>
+				</ul>
+			</div>
+			
+			<div class="col colHot">
+				<h2> &nbsp; &nbsp; Hot</h2>
+				<ul>
+					<li>
+						<a href="/games/club-penguin/en/"><img src="http://www.miniclip.com/images/icons/clubpenguinNew_smallicon.jpg" width="70" height="59" alt="Club Penguin" />
+						<strong>Club Penguin</strong></a>
+					</li>
+					<li>
+						<a href="/games/cab-driver/en/"><img src="http://www.miniclip.com/images/icons/cabdriversmallicon.jpg" width="70" height="59" alt="Cab Driver" />
+						<strong>Cab Driver</strong></a>
+					</li>
+				</ul>
+			</div>
+		</div>		
+				<div class="myGames">
+			<div class="col">
+				<h2>Latest Games Played</h2>
+				<div id="mg_latest"></div>
+			</div>
+			<div class="col2">
+				<h2>My Games</h2>
+				<ul id="mg_miniclips"></ul>
+			</div>
+			<div class="clear"></div>
+		</div>
+
+		</div>
+
+				<!-- FULL GAME LIST - ON EVERY PAGE -->
+			
+		<div class="complete">		
+			<div class="corner_tl"><div class="corner_tr">&nbsp;</div></div>
+		
+			<a href="#" onclick="list_toggle(); return false;" id="listToggle" class="collapse">Hide all Games Sections and Full Games List</a>			
+			<div id="WrapperComplete"></div>
+
+			<div class="corner_bl"><div class="corner_br">&nbsp;</div></div>
+		</div>		
+		<div class="corner_bl g"><div class="corner_br g">&nbsp;</div></div>		
+
+		</div>
+
+	<div id="footer">
+		<ul class="left flags">
+			<li class="normal">&nbsp;&nbsp;Select language :</li>
+			<li class="en"><a href="http://www.miniclip.com/?language=en">English</a></li>
+			<li class="fr"><a href="http://www.miniclip.com/?language=fr">Fran&#231;ais</a></li>
+			<li class="es"><a href="http://www.miniclip.com/?language=es">Espa&#241;ol</a></li>
+			<li class="de"><a href="http://www.miniclip.com/?language=de">Deutsch</a></li>
+			<li class="pt"><a href="http://www.miniclip.com/?language=pt">Portugu&#234;s</a></li>
+			<li class="it"><a href="http://www.miniclip.com/?language=it">Italiano</a></li>
+            <li class="pl"><a href="http://www.miniclip.com/?language=pl">Polski</a></li>
+            <li class="ro"><a href="http://www.miniclip.com/?language=ro">Rom&acirc;n&#259;</a></li>
+            <li class="hu"><a href="http://www.miniclip.com/?language=hu">Magyar</a></li>
+			<li class="br"><a href="http://www.miniclip.com/?language=br">Brasil</a></li>
+			<li class="kr"><a href="http://www.miniclip.com/?language=kr">한국어</a></li>
+			<li class="cn"><a href="http://www.miniclip.com/?language=cs">漢語</a></li>
+			<li class="jp"><a href="http://www.miniclip.com/?language=jp">日本語</a></li>
+			<!-- <li style="padding-left:0;"><script type="text/javascript">SetHomepage();</script></li> -->
+		</ul>
+		
+		<div class="welcome">Welcome to Miniclip.com the largest online games site where you can play free games, sports games,
+ massive multiplayer games, action games, puzzle games, <br />flash games and more. Updated frequently.</div>
+ 		<div class="center">
+			<a href="/players/en/signup.php">Join Now</a>
+			| <a href="http://corporate.miniclip.com/" target="_blank">Corporate</a>
+			| <a href="http://corporate.miniclip.com/about-miniclip.htm" target="_blank">About Us</a>
+			| <a href="http://corporate.miniclip.com/advertising/" target="_blank">Advertisers</a>
+			<!-- | <a href="/games/en/webmaster-games.php">Free Website Games</a> -->
+			| <a href="/games/en/toolbar/">New Game Alerts</a>
+			| <a href="http://corporate.miniclip.com/jobs/">Jobs</a>
+			| <a href="/games/en/terms-and-conditions.php">Terms and Conditions</a>
+			| <a href="http://www.miniclip.com/games/en/privacy-policy.php">Privacy</a>
+			| <a href="/games/en/feed.xml" id="icon_feed" class="icon">Miniclip.com games feed</a>
+		</div>
+
+		<p style="color:#aaa;">&copy; Copyright 2000 - 2008 Miniclip Ltd. All rights reserved.</p>
+	</div>
+	
+	<script type="text/javascript">
+		OAS_AD( 'Position2' );
+		clearCurrentLink();
+		recent_write();
+		anim_init();
+		anim_set(1);
+		toolbar_list();
+		list_init( "en", "games" );
+		cb_init();
+		initRotator();
+	</script>
+	<script language="JavaScript" type="text/javascript">
+		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/miniclip.gofish.dart/' + adKeyword + ';tile=4;sz=1x1;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script>
+	<noscript>
+		<a href="http://ad.doubleclick.net/jump/miniclip.gofish.dart/;[keyword];tile=4;sz=1x1;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/miniclip.gofish.dart/;[keyword];tile=4;sz=1x1;ord=[timestamp]?" width="1" height="1" border="0" alt="Click Here!" />Click Here!</a>
+	</noscript>
+	
+</body>
+</html>
