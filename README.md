@@ -13,4 +13,4 @@ The embedded Ruffle comes from [my fork](https://github.com/simsor/ruffle) (way 
 
 ## Try it out
 
-TBD: host on GitHub Pages.
+https://simsor.github.io/cliparchive/
